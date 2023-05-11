@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **RafalDadas/RafalDadas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +12,15 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+## Hi, I'm Rafał 👋
+
+### 🔨 Frameworks
+<code><img src="https://github.com/RafalDadas/RafalDadas/assets/58176891/7b9ca455-8beb-483e-9aff-0da1614b5a52" height="35"></code>
+### 🌐 Languages
+<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
+<code><img height="40" src="https://github.com/RafalDadas/RafalDadas/assets/58176891/d863df0f-8c30-4c26-8344-a6fc1cb82c54"></code>
+<code><img height="40" src="https://github.com/RafalDadas/RafalDadas/assets/58176891/c50e13bf-01b9-4755-b50e-87a751b5c852"></code>
+### 🏆 Certificates
+[Responsive Web Design](https://www.freecodecamp.org/certification/fcc4213f089-fc91-4398-a3e5-64e2537f978c/responsive-web-design)
