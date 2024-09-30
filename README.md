@@ -29,3 +29,4 @@ Here are some ideas to get you started:
 <code><img height="40" src="https://github.com/RafalDadas/RafalDadas/assets/58176891/c50e13bf-01b9-4755-b50e-87a751b5c852"></code>
 ### 🏆 Certificates
 [Responsive Web Design](https://www.freecodecamp.org/certification/fcc4213f089-fc91-4398-a3e5-64e2537f978c/responsive-web-design)
+[Dart and Flutter: The Complete Developer's Guide](https://www.udemy.com/certificate/UC-57cdf349-8eb4-4fc7-a379-852bde589b71/)
